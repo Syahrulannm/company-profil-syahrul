@@ -20,7 +20,7 @@ Website portofolio personal yang dirancang sebagai company profile modern untuk 
 
 ## 🔗 Live Preview
 
-Kunjungi: [https://company-profil-nam.netlify.app]
+Kunjungi: [https://company-profil-annam.netlify.app]
 
 ---
 
